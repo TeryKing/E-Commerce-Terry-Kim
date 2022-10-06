@@ -18,8 +18,10 @@ Once the npm or node is started and the server from localhost is running, we can
 
 ## Screenshots
 
-![App Screenshot]()
+![App Screenshot](./readmeexample1.JPG)
+![App Screenshot](./readmeexample2.JPG)
 
+Live Video Demo: https://drive.google.com/file/d/1ZoPIx0-YiLs7w1N8o-nGfiA1G8jdl4hS/view
 
 
 ## Authors
